@@ -1,7 +1,7 @@
 ##Presentacion
 - Sintaxis y Semántica de los Lenguajes
 - Curso: k2003.
-- 2025.
-- 220.841-6.
-- Lucas Cueli.
-- Nahuel.
+- Año: 2025.
+- Legajo: 220.841-6.
+- Apellido: Lucas Cueli.
+- Nombre: Nahuel.
